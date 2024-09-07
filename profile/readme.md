@@ -1,37 +1,28 @@
-```
- ________           ___  ___          _____ ______           _____ ______           ___          _________        ________           ___  ___          ________          ________          _______          
-|\   ____\         |\  \|\  \        |\   _ \  _   \        |\   _ \  _   \        |\  \        |\___   ___\     |\   ____\         |\  \|\  \        |\   __  \        |\   __  \        |\  ___ \         
-\ \  \___|_        \ \  \\\  \       \ \  \\\__\ \  \       \ \  \\\__\ \  \       \ \  \       \|___ \  \_|     \ \  \___|_        \ \  \\\  \       \ \  \|\  \       \ \  \|\  \       \ \   __/|        
- \ \_____  \        \ \  \\\  \       \ \  \\|__| \  \       \ \  \\|__| \  \       \ \  \           \ \  \       \ \_____  \        \ \   __  \       \ \   __  \       \ \   _  _\       \ \  \_|/__      
-  \|____|\  \        \ \  \\\  \       \ \  \    \ \  \       \ \  \    \ \  \       \ \  \           \ \  \       \|____|\  \        \ \  \ \  \       \ \  \ \  \       \ \  \\  \|       \ \  \_|\ \     
-    ____\_\  \        \ \_______\       \ \__\    \ \__\       \ \__\    \ \__\       \ \__\           \ \__\        ____\_\  \        \ \__\ \__\       \ \__\ \__\       \ \__\\ _\        \ \_______\    
-   |\_________\        \|_______|        \|__|     \|__|        \|__|     \|__|        \|__|            \|__|       |\_________\        \|__|\|__|        \|__|\|__|        \|__|\|__|        \|_______|    
-   \|_________|                                                                                                     \|_________|                                                                            
-                                                                                                                                                                                                            
-                                                    
-```
+![summitsharep](https://github.com/bicos-io01/Revenue-Sharing-Source/assets/83420013/649df241-e29c-404f-aafb-409153cac786)
+
 ## About Us 🌟
 
-SummitShare is a collaborative platform akin to a vast canvas, inviting people from all walks of life to add their unique strokes. Much like the way mountains offer a clearer view from the summit compared to the obscurity of valleys, SummitShare provides a place for everyone to meet at the peak and share their experiences, knowledge, and cultural richness. Our mission is to facilitate a diverse and inclusive gathering where the collective sharing of our journeys enriches us all.
+Welcome to SummitShare, where every voice and experience adds to a collective masterpiece. Just as a summit offers a panoramic view of the world below, SummitShare is a platform where diverse perspectives come together to create a vibrant tapestry of shared experiences and cultural insights. Our mission is to build a dynamic space where collaboration and cultural exchange enrich our global community.
 
 ### Our Mission 🚀
 
-To create a summit where individuals and communities come together to share and exchange their diverse experiences and cultural treasures in a collective effort to enrich everyone's lives.
+To unite individuals and communities in a summit of shared experiences and cultural treasures, fostering mutual enrichment and collective growth.
 
 ### Join Us 🤝
 
-We invite developers, creators, thinkers, and dreamers to join us in building this community. Whether you're contributing code, ideas, or simply participating in discussions, your input is valued as part of the SummitShare community.
+We’re calling on developers, creators, thinkers, and dreamers to become part of our journey. Your contributions, whether through code, ideas, or discussions, are invaluable to our mission.
 
-- **Contribute**: Check out our repositories to see where you can make contributions that matter.
-- **Connect**: Join our discussions or start a new one. Share your ideas and get feedback from like-minded peers.
-- **Collaborate**: More hands, more ideas, and more perspectives lead to greater achievements. Let's build something great together.
+- **Contribute**: Explore our repositories and discover ways to make a meaningful impact.
+- **Connect**: Engage in discussions or start new ones. Share your ideas and connect with fellow enthusiasts.
+- **Collaborate**: More minds bring more innovation. Let’s build something extraordinary together.
 
 ### Get Involved 📢
 
-- **Follow us on [GitHub](https://github.com/SummitShare)**: Stay updated with our latest projects and updates.
-- **Follow us on [Twitter](https://twitter.com/summitshare_zm)**: Stay updated!
-- **Participate in Events**: Join workshops, hackathons, and meetups to connect with other contributors and expand your skills.
-- **Support**: If you believe in what we're building, show your support by starring our repositories and sharing our mission with others.
+- **Follow us on [GitHub](https://github.com/SummitShare)**: Stay updated with our latest projects and developments.
+- **Follow us on [Twitter](https://twitter.com/summitshare_zm)**: Get the latest news and updates!
+- **Participate in Events**: Join our workshops, hackathons, and meetups to network with other contributors and expand your skills.
+- **Support Us**: Show your support by starring our repositories and sharing our mission with your network.
 
-Together, at SummitShare, we not only share our individual experiences but also weave them into a richer tapestry of collective wisdom and creativity. Join us at the summit, where we celebrate the panorama of human ingenuity.
+For more information and important links, visit our [SummitShare Hub](https://beacons.ai/summitshare).
 
+At SummitShare, we believe in not just sharing our individual experiences, but in weaving them into a rich tapestry of collective wisdom and creativity. Join us at the summit and celebrate the panorama of human ingenuity.
