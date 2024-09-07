@@ -35,4 +35,3 @@ We invite developers, creators, thinkers, and dreamers to join us in building th
 
 Together, at SummitShare, we not only share our individual experiences but also weave them into a richer tapestry of collective wisdom and creativity. Join us at the summit, where we celebrate the panorama of human ingenuity.
 
-```
